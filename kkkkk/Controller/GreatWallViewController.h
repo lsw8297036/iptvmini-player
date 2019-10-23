@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  GreatWallViewController.h
 //  kkkkk
 //
 //  Created by Tom Holland on 19/10/2019.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface GreatWallViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
