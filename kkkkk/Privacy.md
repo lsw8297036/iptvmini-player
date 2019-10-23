@@ -1,0 +1,23 @@
+October 23, 2019
+We collects information from you in order to provide better service and a better user experience. Your privacy is a top priority to us, and this Privacy Policy explains how we collect, use, and protect your information.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+When ordering or registering on our site, as appropriate, you may be asked to enter your ip address or other details to help you with your experience.
+We collect information from you when you or enter information on our site.
+    •    What information we use and how we use it:
+    1    Change network connectivity : This permission is used in settings and notification toolbar, in order to change/check network connectivity.
+    2    Connect and disconnect from Wi-Fi : This permission is used in settings and notification toolbar in order to connect and disconnect from Wi-Fi.
+    3  Full network access : This permission is used to access the device’s network for certain functions including receiving update notifications or accessing app classification labels.
+    •    How we protect your information : We have implemented commercially reasonable technical and organizational measures to protect your personal information from accidental loss and from loss, misuse and unauthorized access, disclosure, alteration and destruction. However, please note that although we take reasonable measures to protect your information, no app, website, Internet transmission, computer system or wireless connection is completely secure.
+    •    How we share your information : We may retain third parties to perform services on our behalf and we may collaborate with third parties with respect to particular products or services. These third parties may be provided with access to the information needed to perform their functions, as long as they agree to keep the information confidential. We reserve the right to disclose your information as required by law, when we believe disclosure is necessary to comply with a regulatory requirement, judicial proceeding, court order, or legal process served on us, or to protect the safety, rights, or property of our users, the public or .
+    •    Children’s Privacy : We are committed to protecting the privacy of children. We do not knowingly collect personal information from children under the age of 13.
+    •    Changes to the Privacy Policy : may, in its sole discretion, change this Privacy Policy from time to time, any and all changes will be reflected here and the date new versions are posted will be stated at the top of this Privacy Policy, so please review it periodically.
+    •    We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:- To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.- Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible. We use regular Malware Scanning. We do not use an SSL certificate- We only provide articles and information. We never ask for personal or private information like email addresses, or credit card numbers.- Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.– Understand and save user’s preferences for future visits.
+    •    Contact Us
+    •    If you have any problem with the private policy, please contact us at djdjs@gmail.com
+SHARE
+
+
+
+SHARE
+
+Comments
